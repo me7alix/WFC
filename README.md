@@ -12,5 +12,5 @@ Examples:
 
 ## Quick start
 ```
-odin ./src/ run
+odin run ./src/
 ```
